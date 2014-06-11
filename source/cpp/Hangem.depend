@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1335997017 source:c:\documents and settings\lettier\my documents\3110\hangem\src\main.cpp
+	"fileio.h"
+	"player.h"
+	"display.h"
+	"game.h"
+	"display.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1335983544 source:c:\documents and settings\lettier\my documents\3110\hangem\src\fileio.cpp
+	"fileio.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1335982090 c:\documents and settings\lettier\my documents\3110\hangem\src\fileio.h
+	<string>
+	<iostream>
+	<fstream>
+
+1335996382 source:c:\documents and settings\lettier\my documents\3110\hangem\src\player.cpp
+	"player.h"
+	<string>
+	<iostream>
+	<stdio.h>
+
+1335990058 c:\documents and settings\lettier\my documents\3110\hangem\src\player.h
+	<string>
+	<iostream>
+	<stdio.h>
+	<string>
+
+1335996638 source:c:\documents and settings\lettier\my documents\3110\hangem\src\game.cpp
+	"game.h"
+	"player.h"
+	"display.h"
+	"fileio.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1335996638 c:\documents and settings\lettier\my documents\3110\hangem\src\game.h
+	"player.h"
+	"display.h"
+	"fileio.h"
+
+1335989730 c:\documents and settings\lettier\my documents\3110\hangem\src\display.h
+	<string>
+
+1335996638 source:c:\documents and settings\lettier\my documents\3110\hangem\src\display.cpp
+	"display.h"
+	<string>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1377555306 source:/home/lettier/github/hangem/src/display.cpp
+	"display.h"
+	<string>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1377555306 /home/lettier/github/hangem/src/display.h
+	<string>
+
+1377555306 source:/home/lettier/github/hangem/src/fileio.cpp
+	"fileio.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1377555306 /home/lettier/github/hangem/src/fileio.h
+	<string>
+	<iostream>
+	<fstream>
+
+1377555306 source:/home/lettier/github/hangem/src/game.cpp
+	"game.h"
+	"player.h"
+	"display.h"
+	"fileio.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1377555306 /home/lettier/github/hangem/src/game.h
+	"player.h"
+	"display.h"
+	"fileio.h"
+
+1377555306 /home/lettier/github/hangem/src/player.h
+	<string>
+	<iostream>
+	<stdio.h>
+	<string>
+
+1377555306 source:/home/lettier/github/hangem/src/main.cpp
+	"fileio.h"
+	"player.h"
+	"display.h"
+	"game.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1377555306 source:/home/lettier/github/hangem/src/player.cpp
+	"player.h"
+	<string>
+	<iostream>
+	<stdio.h>
+
